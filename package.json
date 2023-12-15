@@ -1,0 +1,27 @@
+{
+  "name": "pms_automation",
+  "version": "1.0.0",
+  "description": "This repository for Performance Management System projects Automation test cases and scripts. <br> Cypress using java script automation scripting - Developer Akshay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshay-U-Kunder/PMS_Automation.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akshay-U-Kunder/PMS_Automation/issues"
+  },
+  "homepage": "https://github.com/Akshay-U-Kunder/PMS_Automation#readme",
+  "devDependencies": {
+    "cypress": "^13.6.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-xpath": "^2.0.1"
+  }
+}

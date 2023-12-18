@@ -1,3 +1,5 @@
+/// <reference types="Cypress" />
+/// <reference types="Cypress-xpath" />
 // ***********************************************
 // This example commands.js shows you how to
 // create various custom commands and overwrite
@@ -24,8 +26,7 @@
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
-/// <reference types="Cypress" />
-/// <reference types="Cypress-xpath" />
+
 
 import 'cypress-file-upload';
 //require('cypress-downloadfile/lib/downloadFileCommand')
